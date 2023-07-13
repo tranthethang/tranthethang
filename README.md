@@ -15,15 +15,16 @@
 <p align="left">I'm Alex Tran from Hanoi, Vietnam.</p>
 
 ```
-Since 2011, after working as a web programmer for a while, I have determined the path that I wish to follow.
+Since 2011, after working as a web programmer for a while,
+I have determined the path that I wish to follow.
 
 I aspire to become a full-stack web developer.
 I am willing to work in any roles such as backend, frontend, etc.
 
 Having spent more than ten years in multiple positions as a programmer and team leader (or technical leader),
 I find that the advancement of technology is too fast: it changes daily!
-Therefore, I equip myself with a solid foundation and deepen my understanding of solutions and system architecture,
-instead of racing to upgrade versions of technologies and libraries.
+Therefore, I equip myself with a solid foundation and deepen my understanding of solutions
+and system architecture, instead of racing to upgrade versions of technologies and libraries.
 
 Soon, I will learn more about DevOps and some cloud services like Azure and AWS.
 I also plan to release some open source projects on Laravel, React JS, or Vue JS.
