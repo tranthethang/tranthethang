@@ -1,0 +1,17 @@
+on:
+  schedule:
+    # Runs every 4h
+    - cron: '0 4 * * 1-5'
+  workflow_dispatch:
+  
+jobs:
+  update-readme-with-blog:
+    name: Crawl rss
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: tranthethang/setup-icu@v1
+    - uses: tranthethang/tranthethang@v1
+      with:
+        url: https://openwp.org/feed/
+        file: README.md
+        locale: 'en-US'
