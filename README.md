@@ -70,6 +70,6 @@ I also plan to release some open source projects on Laravel, React JS, or Vue JS
 
 <h3 align="left">STATS. Where do I live?</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthethang&layout=compact" alt="top lang"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthethang&layout=donut&hide_title=true&theme=gruvbox_light" alt="top lang"  />
 
 
