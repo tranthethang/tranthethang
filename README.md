@@ -74,7 +74,7 @@ I also plan to release some open source projects on Laravel, React JS, or Vue JS
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tranthethang&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthethang&layout=compact" alt="top lang"  />
 </div>
 
 ###
