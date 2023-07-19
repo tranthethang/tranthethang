@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">ABOUT. Who am I?</h3>
 
 ###
 
@@ -32,7 +32,7 @@ I also plan to release some open source projects on Laravel, React JS, or Vue JS
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">SKILLS. What can i do?</h3>
 
 ###
 
@@ -63,18 +63,9 @@ I also plan to release some open source projects on Laravel, React JS, or Vue JS
 </div>
 
 ###
-### Latest Posts
-<!-- feed start -->
-<!-- feed end -->
 
-###
+<h3 align="left">STATS. Where do I live?</h3>
 
-<h3 align="left">🔥   My Stats :</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthethang&layout=compact" alt="top lang"  />
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthethang&layout=compact" alt="top lang"  />
-</div>
-
-###
