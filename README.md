@@ -32,6 +32,8 @@ I also plan to release some open source projects on Laravel, React JS, or Vue JS
 
 ###
 
+---
+
 <h3 align="left">SKILLS. What can i do?</h3>
 
 ###
@@ -63,6 +65,8 @@ I also plan to release some open source projects on Laravel, React JS, or Vue JS
 </div>
 
 ###
+
+---
 
 <h3 align="left">STATS. Where do I live?</h3>
 
