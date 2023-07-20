@@ -36,7 +36,7 @@ XXX;
 
 ---
 
-<h3 align="left">SKILLS. What can i do?</h3>
+<h3 align="left">SKILLS. What can I do?</h3>
 
 ###
 
