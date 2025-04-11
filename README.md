@@ -1,4 +1,5 @@
 <div align="center">
+![Mô tả ảnh](./assets/tranthethang.png)
 </div>
 
 ###
