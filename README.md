@@ -67,13 +67,3 @@ if __name__ == "__main__":
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
----
-
-<h3 align="left">STATS. Where do I live?</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthethang&layout=donut&hide_title=true&theme=gruvbox_light" alt="top lang"  />
-
-
