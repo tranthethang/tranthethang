@@ -42,8 +42,8 @@ if __name__ == "__main__":
 
 ###
 
-| 🔥 Weapon of Choice | 🗣️ Dev Speak | 🐲 Lập trình viên nói gì? |
-|----------------------|--------------|----------------------------|
+| 🔥 Weapon | 🗣️ Dev Speak | 🐲 Lập trình viên nói gì? |
+|----------|--------------|----------------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="height:36px;" /> | Messy code, still runs like a charm | Viết mã lộn xộn nhưng chạy vẫn ngon lành |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height:36px;" /> | Write once, debug everywhere | Viết một lần, debug mọi nơi |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" style="height:36px;" /> | Elegant like poetry, smooth like a dream | Đẹp như thơ, chạy như mơ |
