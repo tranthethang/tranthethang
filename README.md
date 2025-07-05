@@ -42,30 +42,20 @@ if __name__ == "__main__":
 
 ###
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php logo" style="height:40px;" title="PHP – Viết mã lộn xộn nhưng chạy vẫn ngon lành | Messy code, still runs like a charm" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java logo" style="height:40px;" title="Java – Viết một lần, debug mọi nơi | Write once, debug everywhere" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" alt="ruby logo" style="height:40px;" title="Ruby – Đẹp như thơ, chạy như mơ | Elegant like poetry, smooth like a dream" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot-net logo" style="height:40px;" title=".NET – Dành cho ai yêu Visual Studio bằng cả trái tim | For those who truly love Visual Studio" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mysql logo" style="height:40px;" title="MySQL – Đơn giản, phổ biến, có mặt mọi nơi | Simple, popular, everywhere" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql logo" style="height:40px;" title="PostgreSQL – Nghiêm túc, mạnh mẽ, chuẩn enterprise | Serious, powerful, enterprise-grade" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="redis logo" style="height:40px;" title="Redis – Nhanh như chớp, gọn như RAM | Lightning fast, light as RAM" />
-  
-  <img src="https://e7.pngegg.com/pngimages/802/126/png-clipart-laravel-web-development-web-application-php-software-framework-others-angle-text-thumbnail.png" alt="laravel logo" style="height:40px;" title="Laravel – PHP đẹp trai nhất vũ trụ | The most handsome PHP framework in the universe" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress logo" style="height:40px;" title="WordPress – Blog hôm nay, sàn thương mại ngày mai | Blog today, e-commerce tomorrow" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb logo" style="height:40px;" title="MongoDB – Lưu JSON, bung lụa với NoSQL | Store JSON, fly with NoSQL" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" alt="circleci logo" style="height:40px;" title="CircleCI – Push xong để CI lo | Just push, let CI do the rest" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker logo" style="height:40px;" title="Docker – Đóng gói tất cả, kể cả nỗi buồn | Package everything, even your sadness" />
-</p>
+| Icon | en | vn |
+|------|----|----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40px" /> | Messy code, still runs like a charm | Viết mã lộn xộn nhưng chạy vẫn ngon lành |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40px" /> | Write once, debug everywhere | Viết một lần, debug mọi nơi |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40px" /> | Elegant like poetry, smooth like a dream | Đẹp như thơ, chạy như mơ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40px" /> | For those who truly love Visual Studio | Dành cho ai yêu Visual Studio bằng cả trái tim |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40px" /> | Simple, popular, everywhere | Đơn giản, phổ biến, có mặt mọi nơi |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40px" /> | Serious, powerful, enterprise-grade | Nghiêm túc, mạnh mẽ, chuẩn enterprise |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="40px" /> | Lightning fast, light as RAM | Nhanh như chớp, gọn như RAM |
+| <img src="https://e7.pngegg.com/pngimages/802/126/png-clipart-laravel-web-development-web-application-php-software-framework-others-angle-text-thumbnail.png" height="40px" /> | The most handsome PHP framework in the universe | PHP đẹp trai nhất vũ trụ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height="40px" /> | Blog today, e-commerce tomorrow | Blog hôm nay, sàn thương mại ngày mai |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40px" /> | Store JSON, fly with NoSQL | Lưu JSON, bung lụa với NoSQL |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40px" /> | Just push, let CI do the rest | Push xong để CI lo |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40px" /> | Package everything, even your sadness | Đóng gói tất cả, kể cả nỗi buồn |
+
 
 
