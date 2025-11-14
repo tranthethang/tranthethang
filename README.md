@@ -1,59 +1,33 @@
-![Mô tả ảnh](./assets/tranthethang.png)
+<h1 align="center">CODE LIKE BREATH</h1>
 
-###
+| **[Verse 1]**                                                                                                                                     | **[Verse 2]**                                                                                                                                          |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Fifteen years deep,<br>Typing code line by line while I sleep,<br>From PHP to Python flow,<br>Laravel's my home, that's all I know.               | AI's on the rise,<br>ChatGPT's coding at lightning speed,<br>People getting worried indeed,<br>Thinking our careers will bleed.                        |
+| Every bug's a lesson I embrace,<br>Every commit leaves its trace,<br>Debug till dawn, eyes bloodshot red,<br>But morning comes, I'm coding ahead. | But I believe with all my soul,<br>Machines are just tools we control,<br>We're the artists painting the goal,<br>Creating dreams that console.        |
+| Remember first day, hands shaking wild,<br>"Hello World" made me smile,<br>Now my APIs spread worldwide,<br>Running servers, endless ride.        | FastAPI, Chain, Gemini too,<br>I learn, I adapt, break through,<br>Transformation? Bring it on cue,<br>Innovation's what I do.                         |
+| Docker containers,<br>&nbsp;&nbsp;&nbsp;&nbsp;Dreams in frames,<br>MySQL queries,<br>&nbsp;&nbsp;&nbsp;&nbsp;Index names.                         | Great developers don't just code,<br>They think, they solve on every road,<br>Not memorizing every mode,<br>But solving problems real and bold.        |
+| Passion ain't just words online,<br>It's sleepless nights by design,<br>When algorithms don't align,<br>That's when I grind.                      | Frameworks change like seasons turn,<br>Languages evolve, we learn and burn,<br>Vue 3, Nuxt, new patterns yearn,<br>Every day there's more to discern. |
+| First code run hits different though,<br>Like poetry starting to flow,<br>Like melodies starting to grow,<br>That's how you know.                 | But algorithmic minds stay true,<br>Clear logic sees us through,<br>That foundation, tried and true,<br>Never leaves our view.                         |
 
-<h1 align="center">hey there 👋</h1>
+**[Hook]**
 
-###
+Code like breath,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Dream till death,<br>
+Developer life,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Heart open wide.
 
-<h3 align="left">ABOUT. Who am I?</h3>
+New tech rising,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Future in sight,<br>
+But humanity stays,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Our guiding light.
 
-###
+| **[Verse 3]**                                                                                                                                  | **[Bridge → Outro]**                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Future might bring AI that's faster,<br>Coding better than its master,<br>But machines don't feel disaster,<br>No heart, no soul, no laughter. | **[Bridge]**<br>AI's my teammate, not my foe,<br>Future's where we both can grow,<br>Human, machine, together flow,<br>Long as our hearts still glow.        |
+| Can't understand what users need,<br>Can't plant that empathy seed,<br>Can't feel love or human creed,<br>Can't comprehend our every deed.     | **[Outro]**<br>Code till when? Till passion fades,<br>Learn till when? Till final days,<br>Developer's not just a phase,<br>It's a life we choose to praise. |
+| We don't code just for the pay,<br>But to build something that'll stay,<br>Value lasting beyond today,<br>That's the developer way.            | Whatever future holds in store,<br>I'll be here dreaming more,<br>Believing in what's at the core,<br>Forever and evermore.                                  |
+| Education, health, connection strong,<br>Bringing people along,<br>Tech for good, where we belong,<br>That's worth the lifelong song.          | *Fifteen years...*<br>*And counting on...*                                                                                                                   |
+| Sometimes burnt out, feeling weak,<br>Exhausted, can barely speak,<br>But users smile, that's the peak,<br>Those moments we all seek.          |                                                                                                                                                              |
+| That's the reason I'm still here,<br>Fifteen years crystal clear,<br>Building dreams year after year,<br>Developer engineer.                   |                                                                                                                                                              |
 
-```python
-class DeveloperProfile:
-    def __init__(self):
-        self.name = "Alex Tran"
-        self.location = "Hanoi, Vietnam"
-        self.since = 2011
-        self.skills = ["Backend", "Frontend", "System Architecture", "Team Leadership"]
-        self.goals = ["DevOps", "AWS", "Azure", "Open Source (Laravel, React, Vue)"]
-
-    def introduce(self):
-        print(f"👋 Hi, I'm {self.name} from {self.location}.")
-        print(f"👨‍💻 Developer since {self.since} — still running on caffeine and curiosity.\n")
-        print(f"🔧 Roles I've taken on: {', '.join(self.skills)}.")
-        print("⚙️  I focus on strong foundations over chasing version numbers.\n")
-        print("📌 Upcoming goals:")
-        for goal in self.goals:
-            print(f"  - {goal}")
-
-
-if __name__ == "__main__":
-    dev = DeveloperProfile()
-    dev.introduce()
-```
-
-###
-
----
-
-<h3 align="left">SKILLS. What can I do?</h3>
-
-###
-
-| 🧰 Tech | 😎 What does it tell devs? |
-|---------|----------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="height:36px;" /> | Messy code, still runs like a charm — Viết mã lộn xộn nhưng chạy vẫn ngon lành |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height:36px;" /> | Write once, debug everywhere — Viết một lần, debug mọi nơi |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" style="height:36px;" /> | Elegant like poetry, smooth like a dream — Đẹp như thơ, chạy như mơ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" style="height:36px;" /> | For those who truly love Visual Studio — Dành cho ai yêu Visual Studio bằng cả trái tim |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" style="height:36px;" /> | Simple, popular, everywhere — Đơn giản, phổ biến, có mặt mọi nơi |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="height:36px;" /> | Serious, powerful, enterprise-grade — Nghiêm túc, mạnh mẽ, chuẩn enterprise |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" style="height:36px;" /> | Lightning fast, light as RAM — Nhanh như chớp, gọn như RAM |
-| <img src="https://e7.pngegg.com/pngimages/802/126/png-clipart-laravel-web-development-web-application-php-software-framework-others-angle-text-thumbnail.png" style="height:36px;" /> | The most handsome PHP framework in the universe — PHP đẹp trai nhất vũ trụ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" style="height:36px;" /> | Blog today, e-commerce tomorrow — Blog hôm nay, sàn thương mại ngày mai |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" style="height:36px;" /> | Store JSON, fly with NoSQL — Lưu JSON, bung lụa với NoSQL |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" style="height:36px;" /> | Just push, let CI do the rest — Push xong để CI lo |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="height:36px;" /> | Package everything, even your sadness — Đóng gói tất cả, kể cả nỗi buồn |
 
