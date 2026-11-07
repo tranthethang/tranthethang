@@ -1,46 +1,21 @@
-```python
-from dataclasses import dataclass, field
-from typing import ClassVar
+<div align="center">
 
-@dataclass
-class DeveloperProfile:
-    name: str
-    location: str
-    since: int
-    skills: list[str]
-    goals: list[str]
-    
-    _intro_template: ClassVar[str] = """
-Hi, I'm {name} from {location}.
-Developer since {since} — still running on caffeine and curiosity.
-Roles: {skills}.
-I focus on strong foundations over chasing version numbers.
+<a href="https://github.com/tranthethang"><img src="./hero.png" width="814" alt="Tran The Thang, Software Engineer &amp; Open Source Contributor"></a>
 
-Upcoming goals:
-{goals}"""
-    
-    def __str__(self) -> str:
-        return self._intro_template.format(
-            name=self.name,
-            location=self.location,
-            since=self.since,
-            skills=', '.join(self.skills),
-            goals='\n'.join(f"  - {goal}" for goal in self.goals)
-        ).strip()
+<img src="./stack.png" width="814" alt="Skills">
 
+<img src="./projects.png" width="814" alt="Open source">
 
-if __name__ == "__main__":
-    profile = DeveloperProfile(
-        name="Alex Tran",
-        location="Hanoi, Vietnam",
-        since=2011,
-        skills=["Backend", "Frontend", "System Architecture", "Team Leadership"],
-        goals=[
-            "Master DevOps practices and cloud infrastructure",
-            "Build and deploy ML models in production",
-            "Fine-tune pre-trained models for domain-specific tasks"
-        ]
-    )
-    
-    print(profile)
-```
+<a href="https://github.com/tranthethang/docker-shared-services"><img src="./project-docker-shared-services.png" width="814" alt="Docker Shared Services: One local Docker Compose stack for common infrastructure, with HTTPS in front."></a>
+
+<a href="https://github.com/tranthethang/agent-relay"><img src="./project-agent-relay.png" width="814" alt="agent-relay: Markdown skills plus a TypeScript CLI for one piece of work in stages."></a>
+
+<a href="https://github.com/tranthethang/ai-commit-summarizer"><img src="./project-ai-commit-summarizer.png" width="814" alt="ai-commit-summarizer: Conventional Commits messages from your staged diff, written by an AI model."></a>
+
+<a href="https://github.com/tranthethang/hermes-course-generator"><img src="./project-hermes-course-generator.png" width="814" alt="hermes-course-generator: An AI agent-driven toolset that bootstraps and generates programming courses for Docusaurus."></a>
+
+<img src="./history.png" width="814" alt="History">
+
+<img src="./companies.png" width="814" alt="AGEST, Rikkeisoft, CO-WELL, Atmarkcafe, Kopasoft">
+
+</div>
